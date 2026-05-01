@@ -5,7 +5,7 @@ from sumy_lib_based_summary import main as sumy_main
 
 if __name__ == "__main__":
     st.set_page_config(layout="wide")
-    st.title("Text Summarization ✍️")
+    st.title("ai text summarizer")
     st.sidebar.header(
         "It's time to master Summarization using a variety of models!"
     )
